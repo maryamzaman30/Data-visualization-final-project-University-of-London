@@ -1,0 +1,43 @@
+/* Font for the entire page to sans-serif */
+body
+{
+    font-family: sans-serif
+}
+
+/* Styles for menu items */
+.menu-item 
+{
+    /* Width & height of the */
+    width: 250px;
+    height: 35px; /*height of buttons is decreased to fit in the whole screen so I dont have 
+    to scroll down for the new buttons*/
+    /* border around the menu items */
+    border: 1px solid gray;
+    /* Remove the default list style */
+    list-style-type: none;
+    /* Some padding to the menu items */
+    padding: 5px;
+    /*to make clickable buttons look clickable*/
+    cursor: pointer;
+}
+
+/* Styles for a container element */
+.container 
+{
+  /* Display property to create a flex container */
+  display: flex;
+}
+
+/* Styles for elements with the hover class */
+.hover 
+{
+    /* Background color to light gray when hovered over */
+    background: lightgray
+}
+
+/* Styles for elements with the selected class */
+.selected
+{
+    /* Background color to gold when selected */
+    background: gold
+}
