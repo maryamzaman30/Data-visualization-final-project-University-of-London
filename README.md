@@ -10,4 +10,4 @@ This project was part of my Midterm and Final. During the second semester, we we
 
 Video Link - https://youtu.be/Cs5oIKCbDpU
 
-App Link -
+App Link - https://mz30.github.io/Data-visualization-final-project-/
